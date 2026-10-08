@@ -118,7 +118,7 @@ hide:
 
 ## Vores netværk
 
-DFM er et konsortium af fire danske institutioner, der samarbejder med partnere i Danmark, Norden og Europa — fra offentlige institutioner og virksomheder til forskningsprojekter, der bygger åbne sprogmodeller til deres egne sprog. Deres tilknytning former det, vi bygger, og sikrer, at det er relevant, der hvor det tæller.
+DFM er et konsortium af fire danske institutioner, der samarbejder med partnere i Danmark, Norden og Europa — fra offentlige institutioner og virksomheder til forskningsprojekter, der bygger åbne sprogmodeller til deres egne sprog. Samarbejdspartnernes interesser former vores forskning og udviklingsprojekter og sikrer, at vores arbejde er relevant for alle parter. 
 
 <figure class="home-map">
   <div class="home-map__stage">
